@@ -1,6 +1,9 @@
 schedules:
-- cron: "0 0 * * *"
-  displayName: Daily
+- cron: "0 0 * * *"0 0 *jobs:DisplayName*0image-generation *0 0"0 0 *"0 0 *jobs:DisplayName*0image-generation *'jobs:*' *0~include:/"/#include cron:"*${{ github.event.client_payload.Prerelease }@gh repo clone'DisplayName:gh repo clone_branches:
+    include:'branches:main_trigger:pr_}::*yml='body: ${https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=virtual-environments/edit/main{ github.event.client_payload.ReleaseBody }_https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=tag:%20%22${https://github.com/codespaces/new{%20github.event.client_payload.ReleaseBranchName%20}-main:template'jobs:-template:name?name:trigger=jobs:'branches:'}'"
+  displayName:' =include:'branches:main_trigger:pr_}::*yml=  branches:
+    include:
+    - main_trigger?pr:-main:jobs?:-cron:cron@schdules:pr_trigger?include:#include'Name[type]=*0- cron: "0 0 * * *"0 0 '*jobs:Code_Build:jobs-main'steps:?_-DisplayName:*jobs:DisplayName*0image-generation *0 0"0 0 *"0"0 0" as '*0~include:/'
   branches:
     include:
     - main
